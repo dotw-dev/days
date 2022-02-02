@@ -1,0 +1,26 @@
+html {
+  font-family: "Rubik", sans-serif;
+}
+.content {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.mb-3 {
+  text-align: left;
+}
+
+.title {
+  padding-bottom: 10px;
+}
+
+.btn-grouped {
+  display: flex;
+  flex-direction: row;
+  gap: 2.5%;
+}
+.btn {
+  width: 100%;
+}
